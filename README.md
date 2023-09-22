@@ -18,4 +18,4 @@ If you would like to contribute to this project, please follow the following gui
 
 ## License
 
-This project is licensed under the [license name] license.
+This project is licensed under the MIT License.
